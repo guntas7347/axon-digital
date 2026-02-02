@@ -31,8 +31,11 @@ const Footer = () => {
             </a>
           </div>
           <p className="text-sm text-slate-400">
-            © 2024 AXON Digital. All rights reserved.
+            © 2026 AXON Digital. All rights reserved.
           </p>
+          <a href="https://guntassandhu.com" className="text-sm text-slate-400">
+            guntassandhu.com
+          </a>
         </div>
       </div>
     </footer>
